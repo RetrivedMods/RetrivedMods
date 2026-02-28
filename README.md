@@ -1,5 +1,9 @@
 <h1 align="center">Hey, I am Prajwal</h1>
 
+<h3 align="center">Founder of RetrivedMods</h3>
+
+<p align="center"><em>Building powerful bots, APIs, and automation tools.</em></p>
+
 ###
 
 <div align="center">
