@@ -2,7 +2,7 @@
 
 <h3 align="center">Founder of RetrivedMods</h3>
 
-<p align="center"><em>Building powerful bots, APIs, and automation tools.</em></p>
+<p align="center"><em>Building powerful bots, APIs, and tools.</em></p>
 
 ###
 
