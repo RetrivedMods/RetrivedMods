@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://retrivedmods.online/assets/wave.svg" width="1000" />
+  <img src="https://retrivedmods.online/assets/waves.svg" width="1000" />
 </div>
 
 <h1>Hey, I am Prajwal</h1>
