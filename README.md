@@ -65,4 +65,4 @@
 
 <h3>GitHub Activity</h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RetrivedMods&bg_color=DD272700&color=58a6ff&line=58a6ff&point=1f6feb&area=true&area_color=a0c4ff&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+<img src="https://contribution-graph-alpha.vercel.app/api/graph?username=RetrivedMods&bg_color=transparent&line=58a6ff&area_color=3b82f6&point=93c5fd&color=58a6ff&points=true&y_ticks=5&hide_title=true&hide_border=true&grid=true&peak=true&glow=false&animate=true" alt="Contribution Graph" />
